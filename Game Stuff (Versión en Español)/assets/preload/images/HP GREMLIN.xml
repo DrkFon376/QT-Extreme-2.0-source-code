@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HP GREMLIN.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HP Gremlin ANIMATION0000" x="100" y="100" width="411" height="288" frameX="0" frameY="-515" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0001" x="611" y="100" width="301" height="470" frameX="-215" frameY="-58" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0002" x="1012" y="100" width="328" height="507" frameX="-290" frameY="-28" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0003" x="1440" y="100" width="261" height="466" frameX="-392" frameY="-65" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0004" x="1801" y="100" width="355" height="431" frameX="-368" frameY="-100" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0005" x="2256" y="100" width="276" height="452" frameX="-373" frameY="-81" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0006" x="2632" y="100" width="367" height="420" frameX="-368" frameY="-111" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0007" x="3099" y="100" width="319" height="443" frameX="-368" frameY="-88" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0008" x="3518" y="100" width="256" height="503" frameX="-339" frameY="-28" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0009" x="100" y="707" width="310" height="444" frameX="-248" frameY="-87" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0010" x="510" y="707" width="305" height="448" frameX="-248" frameY="-81" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0011" x="915" y="707" width="303" height="430" frameX="-249" frameY="-99" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0012" x="1318" y="707" width="292" height="457" frameX="-266" frameY="-74" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0013" x="1710" y="707" width="287" height="467" frameX="-270" frameY="-75" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0014" x="2097" y="707" width="265" height="505" frameX="-304" frameY="-37" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0015" x="2462" y="707" width="374" height="361" frameX="-203" frameY="-138" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0016" x="2936" y="707" width="360" height="384" frameX="-202" frameY="-105" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0017" x="3396" y="707" width="363" height="379" frameX="-189" frameY="-125" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0018" x="100" y="1312" width="401" height="353" frameX="-157" frameY="-159" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0019" x="601" y="1312" width="400" height="373" frameX="-155" frameY="-138" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0020" x="1101" y="1312" width="381" height="389" frameX="-174" frameY="-122" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0021" x="1582" y="1312" width="357" height="390" frameX="-151" frameY="-131" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0022" x="2039" y="1312" width="369" height="382" frameX="-87" frameY="-129" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0023" x="2508" y="1312" width="400" height="370" frameX="-39" frameY="-137" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0024" x="3008" y="1312" width="390" height="375" frameX="-49" frameY="-132" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0025" x="3498" y="1312" width="388" height="381" frameX="-51" frameY="-126" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0026" x="100" y="1802" width="394" height="381" frameX="-49" frameY="-126" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0027" x="594" y="1802" width="397" height="381" frameX="-48" frameY="-126" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0028" x="1091" y="1802" width="404" height="373" frameX="-38" frameY="-134" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0029" x="1595" y="1802" width="342" height="419" frameX="-111" frameY="-89" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0030" x="2037" y="1802" width="249" height="510" frameX="-283" frameY="0" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0031" x="2386" y="1802" width="305" height="477" frameX="-375" frameY="-67" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0032" x="2791" y="1802" width="442" height="315" frameX="-555" frameY="-320" frameWidth="997" frameHeight="803"/>
+	<SubTexture name="HP Gremlin ANIMATION0033" x="3333" y="1802" width="0" height="0" frameX="-244" frameY="-107" frameWidth="997" frameHeight="803"/>
+</TextureAtlas>

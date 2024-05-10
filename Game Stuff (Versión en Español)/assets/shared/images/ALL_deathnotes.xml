@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ALL_deathnotes.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Blue Arrow0000" x="35" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Blue Arrow0001" x="285" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Blue Arrow0002" x="535" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Blue Arrow0003" x="785" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Blue Arrow0004" x="35" y="285" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Blue Arrow0005" x="285" y="285" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Blue Arrow0006" x="535" y="285" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Green Arrow0000" x="35" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Green Arrow0001" x="285" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Green Arrow0002" x="535" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Green Arrow0003" x="785" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Green Arrow0004" x="35" y="285" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Green Arrow0005" x="285" y="285" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Green Arrow0006" x="535" y="285" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Purple Arrow0000" x="35" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Purple Arrow0001" x="285" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Purple Arrow0002" x="535" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Purple Arrow0003" x="785" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Purple Arrow0004" x="35" y="285" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Purple Arrow0005" x="285" y="285" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Purple Arrow0006" x="535" y="285" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Red Arrow0000" x="35" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Red Arrow0001" x="285" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Red Arrow0002" x="535" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Red Arrow0003" x="785" y="35" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Red Arrow0004" x="35" y="285" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Red Arrow0005" x="285" y="285" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+	<SubTexture name="Red Arrow0006" x="535" y="285" width="200" height="200" frameX="20" frameY="0" frameWidth="250" frameHeight="280"/>
+</TextureAtlas>

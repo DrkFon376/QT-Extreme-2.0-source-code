@@ -1,0 +1,7 @@
+Tutorial:gf:1
+Carefree:qt:7
+Careless:qt_annoyed:7
+Censory-Superload:robot:7
+Extermination:robot_angry:7
+Cessation:qt-kb:7
+Expurgation:robot:7

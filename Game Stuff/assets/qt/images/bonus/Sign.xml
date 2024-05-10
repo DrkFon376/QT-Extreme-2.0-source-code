@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sign.png">
+<SubTexture name="Sign_Static0000" x="0" y="0" width="700" height="1040"/>
+<SubTexture name="Sign_on_Bluescreen0000" x="715" y="0" width="700" height="1040"/>
+</TextureAtlas>

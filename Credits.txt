@@ -1,0 +1,21 @@
+Engine: Kade Engine (with some stuff of the Psych Engine)
+Programming: DrkFon376
+New Music: DrkFon376 and JADS (KB Voice and Expurgation Inst)
+New Art: Marshal
+Some New Animations: DrkFon376 and Marshal
+----------------------------------------------------------------------------------------------------------------
+Original QT Mod:
+
+Programming: Hazard24
+Music: Hazard24
+Art: CountNightshade
+Animations: Hazard24
+
+BF vocal soundfont: https://www.youtube.com/watch?v=HeV0F9F8adU / https://github.com/NyxTheShield/FNFSoundfonts
+
+Grafitty font: https://www.dafont.com/grafitty.font
+(Used to try and replicate week text)
+Graffonti font: https://www.dafont.com/graffonti.font
+(Used for logo)
+
+Shoutouts to Hazard, CountNightshade, the original creators of Friday Night Funkin' and the entire modding community!
